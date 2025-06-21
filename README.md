@@ -1,4 +1,6 @@
 # JavaFX To-Do List Application with JSON Database Integration
+Mohamadou Lamine
+iD: 20230040344
 
 A comprehensive to-do list application built with JavaFX, featuring a clean GUI and JSON file-based database integration for persistent task storage.
 
